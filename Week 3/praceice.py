@@ -1,0 +1,5 @@
+print("Rectangle Calculator")
+length=8
+width=5
+area=length*width
+print(area)

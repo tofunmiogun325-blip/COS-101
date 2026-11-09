@@ -1,0 +1,5 @@
+print ("python is interesting")
+print (9*8)
+print ("#  Welcome to python")
+print ( 10/0)
+print ( Hello)
